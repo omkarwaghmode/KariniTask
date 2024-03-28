@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KariniTask/static/css/main.bcc94d5f.css",
+    "main.js": "/KariniTask/static/js/main.6296360e.js",
+    "static/js/453.ed3810f9.chunk.js": "/KariniTask/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/KariniTask/index.html",
+    "main.bcc94d5f.css.map": "/KariniTask/static/css/main.bcc94d5f.css.map",
+    "main.6296360e.js.map": "/KariniTask/static/js/main.6296360e.js.map",
+    "453.ed3810f9.chunk.js.map": "/KariniTask/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc94d5f.css",
+    "static/js/main.6296360e.js"
+  ]
+}
